@@ -3,6 +3,12 @@ class Solution {
      int low=0;int high=nums.length-1;int ans = Integer.MAX_VALUE;
      while(low<=high){
         int mid = low+(high-low)/2;
+        // what if there whole array is sorted :
+
+        if(nums[low]<=nums[high]){
+            ans = Math.min(ans,nums[low]);   // slight optimization if whole arr is sorted itilally of after 1or2 binary search iteration
+            break;
+        }
         // now we'll check for the sorted side:
         // once sorted side is found then we'll update the ans=nums[low](if arr[low]<min)and eleminate the sorted part.
         
