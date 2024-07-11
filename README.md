@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/durgesh2411/Data-structures/tree/master/0078-subsets) |
 | [0907-koko-eating-bananas](https://github.com/durgesh2411/Data-structures/tree/master/0907-koko-eating-bananas) |
 ## Binary Search
 |  |
@@ -32,6 +33,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/durgesh2411/Data-structures/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/durgesh2411/Data-structures/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/durgesh2411/Data-structures/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Math
@@ -42,4 +44,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/durgesh2411/Data-structures/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/durgesh2411/Data-structures/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
