@@ -48,4 +48,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/durgesh2411/Data-structures/tree/master/0078-subsets) |
+## String
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/durgesh2411/Data-structures/tree/master/0812-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/durgesh2411/Data-structures/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
