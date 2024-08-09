@@ -71,4 +71,8 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/durgesh2411/Data-structures/tree/master/0237-delete-node-in-a-linked-list) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/durgesh2411/Data-structures/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
