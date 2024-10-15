@@ -28,6 +28,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/durgesh2411/Data-structures/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/durgesh2411/Data-structures/tree/master/0347-top-k-frequent-elements) |
 | [0907-koko-eating-bananas](https://github.com/durgesh2411/Data-structures/tree/master/0907-koko-eating-bananas) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/durgesh2411/Data-structures/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/durgesh2411/Data-structures/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/durgesh2411/Data-structures/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
 |  |
 | ------- |
@@ -112,4 +114,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/durgesh2411/Data-structures/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/durgesh2411/Data-structures/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
