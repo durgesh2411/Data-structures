@@ -26,6 +26,7 @@
 | ------- |
 | [0078-subsets](https://github.com/durgesh2411/Data-structures/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/durgesh2411/Data-structures/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/durgesh2411/Data-structures/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/durgesh2411/Data-structures/tree/master/0347-top-k-frequent-elements) |
 | [0907-koko-eating-bananas](https://github.com/durgesh2411/Data-structures/tree/master/0907-koko-eating-bananas) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/durgesh2411/Data-structures/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/durgesh2411/Data-structures/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/durgesh2411/Data-structures/tree/master/0139-word-break) |
 | [0812-rotate-string](https://github.com/durgesh2411/Data-structures/tree/master/0812-rotate-string) |
 ## String Matching
 |  |
@@ -67,6 +69,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/durgesh2411/Data-structures/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/durgesh2411/Data-structures/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/durgesh2411/Data-structures/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/durgesh2411/Data-structures/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
@@ -119,4 +122,16 @@
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/durgesh2411/Data-structures/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0139-word-break](https://github.com/durgesh2411/Data-structures/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/durgesh2411/Data-structures/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/durgesh2411/Data-structures/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
