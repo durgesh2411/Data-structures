@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/durgesh2411/Data-structures/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/durgesh2411/Data-structures/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/durgesh2411/Data-structures/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/durgesh2411/Data-structures/tree/master/0139-word-break) |
@@ -93,6 +94,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/durgesh2411/Data-structures/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/durgesh2411/Data-structures/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -125,6 +127,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/durgesh2411/Data-structures/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/durgesh2411/Data-structures/tree/master/0139-word-break) |
 ## Trie
 |  |
