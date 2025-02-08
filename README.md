@@ -28,12 +28,14 @@
 | [0078-subsets](https://github.com/durgesh2411/Data-structures/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/durgesh2411/Data-structures/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/durgesh2411/Data-structures/tree/master/0139-word-break) |
+| [0287-find-the-duplicate-number](https://github.com/durgesh2411/Data-structures/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/durgesh2411/Data-structures/tree/master/0347-top-k-frequent-elements) |
 | [0907-koko-eating-bananas](https://github.com/durgesh2411/Data-structures/tree/master/0907-koko-eating-bananas) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/durgesh2411/Data-structures/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/durgesh2411/Data-structures/tree/master/0287-find-the-duplicate-number) |
 | [0907-koko-eating-bananas](https://github.com/durgesh2411/Data-structures/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
@@ -41,6 +43,7 @@
 | [0029-divide-two-integers](https://github.com/durgesh2411/Data-structures/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/durgesh2411/Data-structures/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/durgesh2411/Data-structures/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/durgesh2411/Data-structures/tree/master/0287-find-the-duplicate-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/durgesh2411/Data-structures/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Math
 |  |
@@ -142,6 +145,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/durgesh2411/Data-structures/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/durgesh2411/Data-structures/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/durgesh2411/Data-structures/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
