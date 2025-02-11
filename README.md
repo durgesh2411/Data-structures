@@ -129,6 +129,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/durgesh2411/Data-structures/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/durgesh2411/Data-structures/tree/master/0547-number-of-provinces) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -153,4 +154,16 @@
 | [0287-find-the-duplicate-number](https://github.com/durgesh2411/Data-structures/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/durgesh2411/Data-structures/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/durgesh2411/Data-structures/tree/master/0541-reverse-string-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/durgesh2411/Data-structures/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/durgesh2411/Data-structures/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/durgesh2411/Data-structures/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
