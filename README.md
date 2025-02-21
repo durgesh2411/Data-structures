@@ -166,4 +166,16 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/durgesh2411/Data-structures/tree/master/0547-number-of-provinces) |
+## Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/durgesh2411/Data-structures/tree/master/0450-delete-node-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/durgesh2411/Data-structures/tree/master/0450-delete-node-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/durgesh2411/Data-structures/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
