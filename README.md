@@ -26,6 +26,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/durgesh2411/Data-structures/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/durgesh2411/Data-structures/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/durgesh2411/Data-structures/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/durgesh2411/Data-structures/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/durgesh2411/Data-structures/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/durgesh2411/Data-structures/tree/master/0128-longest-consecutive-sequence) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/durgesh2411/Data-structures/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/durgesh2411/Data-structures/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/durgesh2411/Data-structures/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/durgesh2411/Data-structures/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/durgesh2411/Data-structures/tree/master/0347-top-k-frequent-elements) |
@@ -186,4 +188,8 @@
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/durgesh2411/Data-structures/tree/master/0450-delete-node-in-a-bst) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/durgesh2411/Data-structures/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
