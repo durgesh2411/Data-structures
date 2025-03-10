@@ -32,6 +32,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/durgesh2411/Data-structures/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/durgesh2411/Data-structures/tree/master/0139-word-break) |
 | [0215-kth-largest-element-in-an-array](https://github.com/durgesh2411/Data-structures/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/durgesh2411/Data-structures/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/durgesh2411/Data-structures/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/durgesh2411/Data-structures/tree/master/0347-top-k-frequent-elements) |
 | [0907-koko-eating-bananas](https://github.com/durgesh2411/Data-structures/tree/master/0907-koko-eating-bananas) |
@@ -163,6 +164,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/durgesh2411/Data-structures/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/durgesh2411/Data-structures/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/durgesh2411/Data-structures/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/durgesh2411/Data-structures/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/durgesh2411/Data-structures/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/durgesh2411/Data-structures/tree/master/0541-reverse-string-ii) |
