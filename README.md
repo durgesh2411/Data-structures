@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/durgesh2411/Data-structures/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/durgesh2411/Data-structures/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/durgesh2411/Data-structures/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/durgesh2411/Data-structures/tree/master/0073-set-matrix-zeroes) |
@@ -116,6 +117,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/durgesh2411/Data-structures/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/durgesh2411/Data-structures/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/durgesh2411/Data-structures/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/durgesh2411/Data-structures/tree/master/0347-top-k-frequent-elements) |
@@ -162,6 +164,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/durgesh2411/Data-structures/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/durgesh2411/Data-structures/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/durgesh2411/Data-structures/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/durgesh2411/Data-structures/tree/master/0283-move-zeroes) |
