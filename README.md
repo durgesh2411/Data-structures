@@ -59,6 +59,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/durgesh2411/Data-structures/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/durgesh2411/Data-structures/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
@@ -92,6 +93,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/durgesh2411/Data-structures/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/durgesh2411/Data-structures/tree/master/0237-delete-node-in-a-linked-list) |
 ## Database
 |  |
