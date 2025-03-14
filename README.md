@@ -26,6 +26,7 @@
 | ------- |
 | [0015-3sum](https://github.com/durgesh2411/Data-structures/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/durgesh2411/Data-structures/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/durgesh2411/Data-structures/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/durgesh2411/Data-structures/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/durgesh2411/Data-structures/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/durgesh2411/Data-structures/tree/master/0075-sort-colors) |
@@ -161,6 +162,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/durgesh2411/Data-structures/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/durgesh2411/Data-structures/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/durgesh2411/Data-structures/tree/master/0139-word-break) |
 ## Trie
@@ -177,6 +179,7 @@
 | [0015-3sum](https://github.com/durgesh2411/Data-structures/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/durgesh2411/Data-structures/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/durgesh2411/Data-structures/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/durgesh2411/Data-structures/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/durgesh2411/Data-structures/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/durgesh2411/Data-structures/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/durgesh2411/Data-structures/tree/master/0287-find-the-duplicate-number) |
@@ -219,4 +222,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/durgesh2411/Data-structures/tree/master/0239-sliding-window-maximum) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/durgesh2411/Data-structures/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/durgesh2411/Data-structures/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
