@@ -67,6 +67,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/durgesh2411/Data-structures/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/durgesh2411/Data-structures/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/durgesh2411/Data-structures/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/durgesh2411/Data-structures/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/durgesh2411/Data-structures/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/durgesh2411/Data-structures/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/durgesh2411/Data-structures/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/durgesh2411/Data-structures/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/durgesh2411/Data-structures/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/durgesh2411/Data-structures/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/durgesh2411/Data-structures/tree/master/0908-middle-of-the-linked-list) |
@@ -186,6 +188,7 @@
 | [0031-next-permutation](https://github.com/durgesh2411/Data-structures/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/durgesh2411/Data-structures/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/durgesh2411/Data-structures/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/durgesh2411/Data-structures/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/durgesh2411/Data-structures/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/durgesh2411/Data-structures/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/durgesh2411/Data-structures/tree/master/0344-reverse-string) |
@@ -232,6 +235,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/durgesh2411/Data-structures/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/durgesh2411/Data-structures/tree/master/0084-largest-rectangle-in-histogram) |
+| [0234-palindrome-linked-list](https://github.com/durgesh2411/Data-structures/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
