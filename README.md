@@ -73,11 +73,13 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/durgesh2411/Data-structures/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/durgesh2411/Data-structures/tree/master/0078-subsets) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/durgesh2411/Data-structures/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/durgesh2411/Data-structures/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/durgesh2411/Data-structures/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/durgesh2411/Data-structures/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/durgesh2411/Data-structures/tree/master/0541-reverse-string-ii) |
@@ -171,6 +173,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/durgesh2411/Data-structures/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/durgesh2411/Data-structures/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/durgesh2411/Data-structures/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/durgesh2411/Data-structures/tree/master/0139-word-break) |
