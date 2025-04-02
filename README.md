@@ -44,6 +44,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/durgesh2411/Data-structures/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/durgesh2411/Data-structures/tree/master/0287-find-the-duplicate-number) |
 | [0907-koko-eating-bananas](https://github.com/durgesh2411/Data-structures/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
@@ -246,4 +247,8 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/durgesh2411/Data-structures/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/durgesh2411/Data-structures/tree/master/0084-largest-rectangle-in-histogram) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/durgesh2411/Data-structures/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
