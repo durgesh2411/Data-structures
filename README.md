@@ -39,6 +39,7 @@
 | [0283-move-zeroes](https://github.com/durgesh2411/Data-structures/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/durgesh2411/Data-structures/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/durgesh2411/Data-structures/tree/master/0347-top-k-frequent-elements) |
+| [0540-single-element-in-a-sorted-array](https://github.com/durgesh2411/Data-structures/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/durgesh2411/Data-structures/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/durgesh2411/Data-structures/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/durgesh2411/Data-structures/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/durgesh2411/Data-structures/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/durgesh2411/Data-structures/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/durgesh2411/Data-structures/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/durgesh2411/Data-structures/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/durgesh2411/Data-structures/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
