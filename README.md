@@ -118,6 +118,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/durgesh2411/Data-structures/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/durgesh2411/Data-structures/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/durgesh2411/Data-structures/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/durgesh2411/Data-structures/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -204,6 +205,7 @@
 | [0344-reverse-string](https://github.com/durgesh2411/Data-structures/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/durgesh2411/Data-structures/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/durgesh2411/Data-structures/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/durgesh2411/Data-structures/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
