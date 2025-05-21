@@ -87,6 +87,7 @@
 | [0022-generate-parentheses](https://github.com/durgesh2411/Data-structures/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/durgesh2411/Data-structures/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/durgesh2411/Data-structures/tree/master/0344-reverse-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/durgesh2411/Data-structures/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/durgesh2411/Data-structures/tree/master/0541-reverse-string-ii) |
 | [0812-rotate-string](https://github.com/durgesh2411/Data-structures/tree/master/0812-rotate-string) |
 | [1170-shortest-common-supersequence](https://github.com/durgesh2411/Data-structures/tree/master/1170-shortest-common-supersequence) |
@@ -186,6 +187,7 @@
 | [0042-trapping-rain-water](https://github.com/durgesh2411/Data-structures/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/durgesh2411/Data-structures/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/durgesh2411/Data-structures/tree/master/0139-word-break) |
+| [0516-longest-palindromic-subsequence](https://github.com/durgesh2411/Data-structures/tree/master/0516-longest-palindromic-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/durgesh2411/Data-structures/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/durgesh2411/Data-structures/tree/master/1250-longest-common-subsequence) |
 ## Trie
