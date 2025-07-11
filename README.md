@@ -228,6 +228,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/durgesh2411/Data-structures/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0133-clone-graph](https://github.com/durgesh2411/Data-structures/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/durgesh2411/Data-structures/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/durgesh2411/Data-structures/tree/master/0820-find-eventual-safe-states) |
@@ -242,6 +243,7 @@
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/durgesh2411/Data-structures/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/durgesh2411/Data-structures/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -250,6 +252,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/durgesh2411/Data-structures/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/durgesh2411/Data-structures/tree/master/0450-delete-node-in-a-bst) |
 ## Matrix
 |  |
