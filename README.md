@@ -33,6 +33,7 @@
 | [0078-subsets](https://github.com/durgesh2411/Data-structures/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/durgesh2411/Data-structures/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/durgesh2411/Data-structures/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/durgesh2411/Data-structures/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/durgesh2411/Data-structures/tree/master/0139-word-break) |
 | [0215-kth-largest-element-in-an-array](https://github.com/durgesh2411/Data-structures/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/durgesh2411/Data-structures/tree/master/0239-sliding-window-maximum) |
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/durgesh2411/Data-structures/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/durgesh2411/Data-structures/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/durgesh2411/Data-structures/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/durgesh2411/Data-structures/tree/master/2121-find-if-path-exists-in-graph) |
 ## Prefix Sum
@@ -223,6 +225,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/durgesh2411/Data-structures/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/durgesh2411/Data-structures/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/durgesh2411/Data-structures/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/durgesh2411/Data-structures/tree/master/0820-find-eventual-safe-states) |
@@ -231,6 +234,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/durgesh2411/Data-structures/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0130-surrounded-regions](https://github.com/durgesh2411/Data-structures/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/durgesh2411/Data-structures/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/durgesh2411/Data-structures/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/durgesh2411/Data-structures/tree/master/0820-find-eventual-safe-states) |
@@ -260,6 +264,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/durgesh2411/Data-structures/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/durgesh2411/Data-structures/tree/master/0130-surrounded-regions) |
 ## Queue
 |  |
 | ------- |
