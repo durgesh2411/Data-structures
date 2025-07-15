@@ -198,6 +198,7 @@
 | [1170-shortest-common-supersequence](https://github.com/durgesh2411/Data-structures/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/durgesh2411/Data-structures/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/durgesh2411/Data-structures/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/durgesh2411/Data-structures/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Trie
 |  |
 | ------- |
@@ -245,6 +246,7 @@
 | [0133-clone-graph](https://github.com/durgesh2411/Data-structures/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/durgesh2411/Data-structures/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/durgesh2411/Data-structures/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/durgesh2411/Data-structures/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/durgesh2411/Data-structures/tree/master/2121-find-if-path-exists-in-graph) |
 ## Tree
 |  |
@@ -292,4 +294,9 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/durgesh2411/Data-structures/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/durgesh2411/Data-structures/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/durgesh2411/Data-structures/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
