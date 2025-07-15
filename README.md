@@ -28,6 +28,7 @@
 | [0031-next-permutation](https://github.com/durgesh2411/Data-structures/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/durgesh2411/Data-structures/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/durgesh2411/Data-structures/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/durgesh2411/Data-structures/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/durgesh2411/Data-structures/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/durgesh2411/Data-structures/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/durgesh2411/Data-structures/tree/master/0078-subsets) |
@@ -265,6 +266,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/durgesh2411/Data-structures/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/durgesh2411/Data-structures/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/durgesh2411/Data-structures/tree/master/0130-surrounded-regions) |
 ## Queue
@@ -299,4 +301,8 @@
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/durgesh2411/Data-structures/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/durgesh2411/Data-structures/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
