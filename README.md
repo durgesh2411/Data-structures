@@ -183,6 +183,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/durgesh2411/Data-structures/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/durgesh2411/Data-structures/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/durgesh2411/Data-structures/tree/master/0547-number-of-provinces) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/durgesh2411/Data-structures/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/durgesh2411/Data-structures/tree/master/2121-find-if-path-exists-in-graph) |
 ## Prefix Sum
 |  |
@@ -231,6 +232,7 @@
 | [0133-clone-graph](https://github.com/durgesh2411/Data-structures/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/durgesh2411/Data-structures/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/durgesh2411/Data-structures/tree/master/0820-find-eventual-safe-states) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/durgesh2411/Data-structures/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/durgesh2411/Data-structures/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -240,6 +242,7 @@
 | [0133-clone-graph](https://github.com/durgesh2411/Data-structures/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/durgesh2411/Data-structures/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/durgesh2411/Data-structures/tree/master/0820-find-eventual-safe-states) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/durgesh2411/Data-structures/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/durgesh2411/Data-structures/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
@@ -247,6 +250,7 @@
 | [0133-clone-graph](https://github.com/durgesh2411/Data-structures/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/durgesh2411/Data-structures/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/durgesh2411/Data-structures/tree/master/0820-find-eventual-safe-states) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/durgesh2411/Data-structures/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/durgesh2411/Data-structures/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/durgesh2411/Data-structures/tree/master/2121-find-if-path-exists-in-graph) |
 ## Tree
