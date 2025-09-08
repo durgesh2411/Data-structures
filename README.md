@@ -228,6 +228,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/durgesh2411/Data-structures/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/durgesh2411/Data-structures/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/durgesh2411/Data-structures/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/durgesh2411/Data-structures/tree/master/0547-number-of-provinces) |
@@ -238,6 +239,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/durgesh2411/Data-structures/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/durgesh2411/Data-structures/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/durgesh2411/Data-structures/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/durgesh2411/Data-structures/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/durgesh2411/Data-structures/tree/master/0547-number-of-provinces) |
@@ -257,6 +259,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/durgesh2411/Data-structures/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/durgesh2411/Data-structures/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/durgesh2411/Data-structures/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -266,6 +269,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/durgesh2411/Data-structures/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/durgesh2411/Data-structures/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/durgesh2411/Data-structures/tree/master/0450-delete-node-in-a-bst) |
 ## Matrix
 |  |
